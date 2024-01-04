@@ -1,0 +1,32 @@
+2024-01-03 21:18:49,497 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:18:52,182 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 21:18:54,608 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-03 21:22:19,003 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:22:22,269 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 21:22:25,221 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-03 21:24:49,595 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:24:52,246 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 21:24:54,706 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-03 21:25:00,441 :INFO : test_addemployee_case :Log four: Succesfully logged out
+2024-01-04 00:22:22,470 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 00:22:26,291 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 00:22:29,399 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 00:23:38,334 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 00:23:41,600 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 00:23:44,746 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 00:23:45,751 :INFO : test_addemployee_case :Log four: Succesfully logged out
+2024-01-04 00:53:16,401 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 00:53:19,482 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 00:53:22,390 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 00:53:23,303 :INFO : test_addemployee_case :Log four: Succesfully logged out
+2024-01-04 00:54:14,081 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 00:54:15,734 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 00:54:18,603 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 00:55:38,988 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 00:55:40,672 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 00:55:43,683 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 00:55:55,298 :INFO : test_addemployee_case :Log four: Succesfully logged out
+2024-01-04 18:51:37,420 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 18:51:40,354 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 18:51:43,039 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 18:51:54,289 :INFO : test_addemployee_case :Log four: Succesfully logged out

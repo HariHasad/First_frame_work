@@ -1,0 +1,84 @@
+2024-01-01 00:54:26,323 :INFO : testone :Succesfully logged in
+2024-01-01 00:55:49,959 :INFO : testone :Succesfully logged in
+2024-01-01 01:00:04,307 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-01 01:00:09,962 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-01 01:00:15,535 :INFO : testone :Log three: Succesfully added new staff
+2024-01-01 01:00:16,667 :INFO : testone :Log four: Succesfully logged out
+2024-01-02 20:24:07,518 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 20:24:10,327 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 20:24:12,955 :INFO : testone :Log three: Succesfully added new staff
+2024-01-02 20:24:13,781 :INFO : testone :Log four: Succesfully logged out
+2024-01-02 23:00:35,451 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:00:38,400 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:04:41,790 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:04:45,266 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:06:31,263 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:06:34,359 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:08:19,495 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:08:22,460 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:08:25,505 :INFO : testone :Log three: Succesfully added new staff
+2024-01-02 23:08:26,488 :INFO : testone :Log four: Succesfully logged out
+2024-01-02 23:16:17,035 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:17:25,112 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:19:12,284 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:19:18,588 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:21:31,145 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:21:37,313 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:27:03,522 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:27:10,159 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:28:36,409 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:28:42,490 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:35:17,369 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:35:33,067 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:36:03,991 :INFO : testone :Log three: Succesfully added new staff
+2024-01-02 23:36:05,186 :INFO : testone :Log four: Succesfully logged out
+2024-01-02 23:37:48,045 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-02 23:37:54,045 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-02 23:38:21,425 :INFO : testone :Log three: Succesfully added new staff
+2024-01-02 23:38:26,290 :INFO : testone :Log four: Succesfully logged out
+2024-01-03 00:37:24,418 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-03 00:37:30,300 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-03 00:38:02,711 :INFO : testone :Log three: Succesfully added new staff
+2024-01-03 00:38:05,376 :INFO : testone :Log four: Succesfully logged out
+2024-01-03 01:01:03,022 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-03 01:01:08,963 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-03 01:01:16,842 :INFO : testone :Log three: Succesfully added new staff
+2024-01-03 01:01:19,413 :INFO : testone :Log four: Succesfully logged out
+2024-01-03 01:02:56,989 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-03 01:03:03,180 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-03 01:03:11,303 :INFO : testone :Log three: Succesfully added new staff
+2024-01-03 01:03:12,322 :INFO : testone :Log four: Succesfully logged out
+2024-01-03 01:03:30,059 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-03 01:03:37,052 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-03 01:03:45,098 :INFO : testone :Log three: Succesfully added new staff
+2024-01-03 01:03:48,885 :INFO : testone :Log four: Succesfully logged out
+2024-01-03 01:04:59,017 :INFO : testone :Log one: Succesfully logged into home page
+2024-01-03 01:05:04,921 :INFO : testone :Log two: Succesfully logged into add employee page
+2024-01-03 01:05:12,733 :INFO : testone :Log three: Succesfully added new staff
+2024-01-03 01:05:24,347 :INFO : testone :Log four: Succesfully logged out
+2024-01-03 01:21:06,283 :INFO : test_first_case :Log one: Succesfully logged into home page
+2024-01-03 01:21:12,283 :INFO : test_first_case :Log two: Succesfully logged into add employee page
+2024-01-03 01:21:20,190 :INFO : test_first_case :Log three: Succesfully added new staff
+2024-01-03 01:21:31,177 :INFO : test_first_case :Log four: Succesfully logged out
+2024-01-03 01:26:21,608 :INFO : test_first_case :Log one: Succesfully logged into home page
+2024-01-03 01:26:24,712 :INFO : test_second_case :Log two: Succesfully logged into add employee page
+2024-01-03 01:26:32,650 :INFO : test_second_case :Log three: Succesfully added new staff
+2024-01-03 01:26:43,974 :INFO : test_second_case :Log four: Succesfully logged out
+2024-01-03 01:28:05,641 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 01:28:08,552 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 01:28:16,413 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-03 01:28:27,416 :INFO : test_addemployee_case :Log four: Succesfully logged out
+2024-01-03 21:07:17,850 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:07:54,798 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:07:57,715 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 21:08:36,183 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:08:37,829 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 21:08:40,190 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-03 21:26:31,065 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-03 21:26:33,906 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-03 21:26:36,370 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-03 21:26:42,130 :INFO : test_addemployee_case :Log four: Succesfully logged out
+2024-01-04 00:57:31,696 :INFO : test_loginpage_case :Log one: Succesfully logged into home page
+2024-01-04 00:57:33,280 :INFO : test_addemployee_case :Log two: Succesfully logged into add employee page
+2024-01-04 00:57:36,620 :INFO : test_addemployee_case :Log three: Succesfully added new staff
+2024-01-04 00:57:48,287 :INFO : test_addemployee_case :Log four: Succesfully logged out
